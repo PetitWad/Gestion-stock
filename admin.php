@@ -51,7 +51,6 @@ $reslt = $state->fetch();
                 <?php require 'dashboard.php' ?>
             </div>
             <div class="col-12">
-                <!-- <center> -->
                 <div class="row blok-img">
                     <div class="col-4 card"> 
                         <div class="text">
@@ -72,7 +71,6 @@ $reslt = $state->fetch();
                         </div>
                     </div>
                 </div>
-                <!-- </center> -->
                 <form action="./index.php" method="POST">
                     <div class="row bar_filtre">
                         <div class="col-1">
